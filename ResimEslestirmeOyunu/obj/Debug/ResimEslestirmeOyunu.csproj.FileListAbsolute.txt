@@ -1,0 +1,8 @@
+c:\users\harun\documents\visual studio 2015\Projects\ResimEslestirmeOyunu\ResimEslestirmeOyunu\bin\Debug\ResimEslestirmeOyunu.exe.config
+c:\users\harun\documents\visual studio 2015\Projects\ResimEslestirmeOyunu\ResimEslestirmeOyunu\obj\Debug\ResimEslestirmeOyunu.Properties.Resources.resources
+c:\users\harun\documents\visual studio 2015\Projects\ResimEslestirmeOyunu\ResimEslestirmeOyunu\obj\Debug\ResimEslestirmeOyunu.csproj.GenerateResource.Cache
+c:\users\harun\documents\visual studio 2015\Projects\ResimEslestirmeOyunu\ResimEslestirmeOyunu\bin\Debug\ResimEslestirmeOyunu.exe
+c:\users\harun\documents\visual studio 2015\Projects\ResimEslestirmeOyunu\ResimEslestirmeOyunu\bin\Debug\ResimEslestirmeOyunu.pdb
+c:\users\harun\documents\visual studio 2015\Projects\ResimEslestirmeOyunu\ResimEslestirmeOyunu\obj\Debug\ResimEslestirmeOyunu.exe
+c:\users\harun\documents\visual studio 2015\Projects\ResimEslestirmeOyunu\ResimEslestirmeOyunu\obj\Debug\ResimEslestirmeOyunu.pdb
+c:\users\harun\documents\visual studio 2015\Projects\ResimEslestirmeOyunu\ResimEslestirmeOyunu\obj\Debug\ResimEslestirmeOyunu.Form1.resources
